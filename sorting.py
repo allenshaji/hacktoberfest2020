@@ -1,6 +1,11 @@
 import sys 
-A = [64, 25, 12, 22, 11] 
-  
+A = [] 
+n = int(input("Enter number of elements : ")) 
+print("Enter the Elements")
+for k in range (0, n):
+    elements=int(input())
+    A.append(elements)
+
 for i in range(len(A)): 
       
     min_idx = i 
