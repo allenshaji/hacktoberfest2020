@@ -15,16 +15,16 @@ function twoSum (nums, target) {
 };
 
 // uncomment below for testing
-var testArray1 = [1,2,3,9]
-var target1 = 5
-var testArray2 = [0,3,4,0]
-var target2 = 0
-var testArray3 = [-2, -3, -7, -13, -6]
-var target3 = -8
-var testArray4 = []
-var target4 = 2
+// var testArray1 = [1,2,3,9]
+// var target1 = 5
+// var testArray2 = [0,3,4,0]
+// var target2 = 0
+// var testArray3 = [-2, -3, -7, -13, -6]
+// var target3 = -8
+// var testArray4 = []
+// var target4 = 2
 
-console.log(twoSum(testArray1, target1))
-console.log(twoSum(testArray2, target2))
-console.log(twoSum(testArray3, target3))
-console.log(twoSum(testArray4, target4))
+// console.log(twoSum(testArray1, target1))
+// console.log(twoSum(testArray2, target2))
+// console.log(twoSum(testArray3, target3))
+// console.log(twoSum(testArray4, target4))
