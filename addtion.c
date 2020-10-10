@@ -5,6 +5,6 @@ int main()
 int a=5,b=2,c;
 clrscr();
 c=a+b;
-print("%d",c);
+printf("%d",c);
 getch();
 }
