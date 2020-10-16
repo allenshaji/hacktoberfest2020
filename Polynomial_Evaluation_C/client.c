@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "poly.h"
+#include "server.h"
 int main() {
 	int n,x,coeff;
     long long int value;
