@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 int front=0;
-int end=0;
+int top,end=0;
 int a[10];
 void push(int x)
 {
