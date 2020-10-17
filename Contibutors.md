@@ -1,4 +1,4 @@
-Name => sarthak999
+Name => Shubham kumar jayswal
 
-FileName => COHENSUTHERLAND_LINECLIPPING_ALGO.CPP
-
+FileName => merge-sort.c,stack.c,palindrome-stack.c,string_sort_stack.c
+           
